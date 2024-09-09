@@ -2,7 +2,7 @@
 
 # Library Management System - Back-end (Java)
 
-This repository contains the *back-end* of the Library Management System, built using *Java* and *Spring Boot. It provides the REST API for managing authors, books, and reviews, with **CRUD* functionality for each entity.
+This repository contains the *back-end* of the Library Management System, built using *Java* and *Spring Boot. It provides the REST API for managing authors, books, and reviews, with *CRUD* functionality for each entity.
 
 ## Project Overview
 
